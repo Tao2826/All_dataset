@@ -1,8 +1,11 @@
 数据集地址：https://nijianmo.github.io/amazon/index.html
-介绍：Amazon Product Data数据集是一个广泛用于推荐系统研究的真实数据集，来自Stanford SNAP（Stanford Network Analysis Project）项目，由
-斯坦福大学研究人员整理并公开发布。这些数据是从亚马逊的产品页面和用户评论中爬取的，主要用于研究推荐系统、用户行为建模和自然语言处理任务。本项
-目使用了其中的Musical Instruments（乐器和音响设备）、Automotive（汽车配件与保养产品）、Amazon Instant Video（流媒体内容）、Office Prod-
-ucts（办公用品）和Digital Music（数字音乐）五个子数据集。每个数据集都具有以下通用结构：用户ID（标识用户的唯一标识符）、产品ID（标识商品的唯
-一标识符）、评分（用户对商品的1-5星评分）、评论文本（用户的详细反馈）和时间戳（评论时间）。此外，各数据集在用户行为和商品特性上有所差异，例如，
-乐器数据集中用户更加关注音质与产品性能，而数字音乐数据集中的偏好则高度个性化，涉及音乐流派与艺术家选择。这些数据集不仅为推荐系统算法开发（如协
-同过滤和内容推荐）提供了关键支持，也适用于用户行为建模、情感分析以及文本挖掘等领域的研究，是多模态数据融合与个性化推荐的核心实验资源。
+
+介绍：Amazon Product Data数据集是一个广泛用于推荐系统研究的真实数据集，来自Stanford SNAP（Stanford Network Analysis Project）项目，由斯坦福大学研究人员整理并公开发布。
+     这些数据是从亚马逊的产品页面和用户评论中爬取的，主要用于研究推荐系统、用户行为建模和自然语言处理任务。本项目使用了其中的Musical Instruments（乐器和音响设备）、Autom-
+     otive（汽车配件与保养产品）、Amazon Instant Video（流媒体内容）、Office Prod-ucts（办公用品）和Digital Music（数字音乐）五个子数据集。每个数据集都具有以下通用结构：
+     用户ID（标识用户的唯一标识符）、产品ID（标识商品的唯一标识符）、评分（用户对商品的1-5星评分）、评论文本（用户的详细反馈）和时间戳（评论时间）。此外，各数据集在用户行为
+     和商品特性上有所差异，例如，乐器数据集中用户更加关注音质与产品性能，而数字音乐数据集中的偏好则高度个性化，涉及音乐流派与艺术家选择。这些数据集不仅为推荐系统算法开发（如
+     协同过滤和内容推荐）提供了关键支持，也适用于用户行为建模、情感分析以及文本挖掘等领域的研究，是多模态数据融合与个性化推荐的核心实验资源。
+
+本项目组基于该数据集的成果：[1] B. Li, J. Dong, X. Wang, Y. Hou and B. Yang. Research on Personalized Recommendation Algorithm Integrating Cross-Grained Sentiment and Rating Interaction Features[J]. IEEE Access(投稿中)
+                         [2] Li B, Dong J, Wang X, Xing X and Lin Z. Dual Contrastive Learning for Personalized Recommendation: Bridging Review and Rating Features[J]. Applied Intelligence(投稿中)
