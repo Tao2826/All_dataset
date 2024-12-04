@@ -10,4 +10,4 @@ JingDong数据集链接：https://jdata.jd.com/html/detail.html?id=8
 ValuedShopper数据集链接：https://www.kaggle.com/c/acquire-valued-shoppers-challenge
                   介绍：是一个大规模的集合，包括每个用户在2012年3月2号至2013年7月28号的购物记录。
 
-本项目组基于该数据集的成果：Li, B., Yang, B., Hou, Y., Wang, X., & Dong, J. (2024). Multi-Perspective Temporal Information Fusion Perception for Next Basket Recommendation. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), Full Research Papers Track.[Submitted]
+本项目组基于该数据集公开发表的成果：Li, B., Yang, B., Hou, Y., Wang, X., & Dong, J. (2024). Multi-Perspective Temporal Information Fusion Perception for Next Basket Recommendation. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), Full Research Papers Track.[Submitted]
