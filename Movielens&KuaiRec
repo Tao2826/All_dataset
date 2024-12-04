@@ -1,0 +1,13 @@
+Movielens数据集链接：https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+              介绍：Movielens数据集包含用户对电影的评分、用户属性和电影信息。Movielens-100k和Movielens-1M数据集
+                   分别用于小规模和中等规模的推荐任务评估。我们提取了用户ID、电影ID、评分值以及部分用户的属性（如年
+                   龄、性别和职业）。为了确保数据的完整性，我们筛选出了评分记录超过5条的用户和电影。Movielens数据
+                   集的用户评分范围为1到5，其中5分为最喜欢，1分为最不喜欢。
+
+KuaiRec数据集链接：https://kuairec.com/
+            介绍：KuaiRec数据集来自快手短视频平台，包含用户与短视频的互动数据，该数据集高度稀疏，反映了真实世界短视
+                 频推荐中的数据特征。我们提取了用户ID、视频ID、播放时长以及时间戳等关键数据，并筛选出互动记录大于一
+                 定数量的用户和视频进行实验分析。
+
+本项目组基于该数据集的成果:[1] 李冰,王曦乐,候玉琪,杨彪,董江涛.基于ID特征的深度交互与自注意力融合推荐模型[J].数据分析与知识发现，2024（CSSCI核心，CSCD拓展，EI）
+                        [2] B. Li, X. Wang, J. Dong, Y. Hou and B. Yang. Contrastive Learning and Deep Fusion Recommendation Model Based on ID Features[J]. IEEE Access, vol. 12, pp. 163001-163015, 2024, doi: 10.1109/ACCESS.2024.3491824. https://ieeexplore.ieee.org/document/10744049
