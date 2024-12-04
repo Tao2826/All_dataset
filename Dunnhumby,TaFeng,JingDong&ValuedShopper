@@ -1,0 +1,13 @@
+Dunnhumby数据集链接：https://www.dunnhumby.com/source-files/
+              介绍：记录了2,500 个经常在零售商购物的家庭两年内进行的家庭级交易，其中时间信息仅包括交易的天数和周数。
+
+TaFeng数据集链接：https://www.kaggle.com/datasets/chiranjivdas09/ta-feng-grocery-dataset
+           介绍：包括2000年11月至2001年2月在一家中国杂货店的购物交易。
+
+JingDong数据集链接：https://jdata.jd.com/html/detail.html?id=8
+             介绍：记录了2018年2月1号至2018年4月15号中的用户关于购买、浏览、评论、关注和将产品添加到购物车的操作。
+
+ValuedShopper数据集链接：https://www.kaggle.com/c/acquire-valued-shoppers-challenge
+                  介绍：是一个大规模的集合，包括每个用户在2012年3月2号至2013年7月28号的购物记录。
+
+本项目组基于该数据集的成果：Li, B., Yang, B., Hou, Y., Wang, X., & Dong, J. (2024). Multi-Perspective Temporal Information Fusion Perception for Next Basket Recommendation. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), Full Research Papers Track.[Submitted]
