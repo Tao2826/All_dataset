@@ -9,5 +9,5 @@ KuaiRec数据集链接：https://kuairec.com/
                  频推荐中的数据特征。我们提取了用户ID、视频ID、播放时长以及时间戳等关键数据，并筛选出互动记录大于一
                  定数量的用户和视频进行实验分析。
 
-本项目组基于该数据集的成果:[1] 李冰,王曦乐,候玉琪,杨彪,董江涛.基于ID特征的深度交互与自注意力融合推荐模型[J].数据分析与知识发现，2024（CSSCI核心，CSCD拓展，EI）
+本项目组基于该数据集公开发表的成果:[1] 李冰,王曦乐,候玉琪,杨彪,董江涛.基于ID特征的深度交互与自注意力融合推荐模型[J].数据分析与知识发现，2024（CSSCI核心，CSCD拓展，EI）
                         [2] B. Li, X. Wang, J. Dong, Y. Hou and B. Yang. Contrastive Learning and Deep Fusion Recommendation Model Based on ID Features[J]. IEEE Access, vol. 12, pp. 163001-163015, 2024, doi: 10.1109/ACCESS.2024.3491824. https://ieeexplore.ieee.org/document/10744049
