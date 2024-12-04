@@ -4,5 +4,5 @@ MOOC数据集链接：Hou, Yuqi (2024). ICRA 数据集. figshare. Dataset. https
               数据来源：中国大学MOOC平台，其拥有超过10,000门开放课程，包括超过1,400门国家级精品课程。数据内容：通过模拟用户点击和翻页行为，系统性地爬取了用户
               ID、评论文本、评分、时间戳、课程ID及详细课程描述等关键信息。数据规模：数据集涵盖4,347门课程、534,291名用户和747,253条评论。
 
-本项目组基于该数据集的成果：[1] B. Li, Y. Hou, J. Dong, B. Yang, X. Wang. ICRA: A Study of Highly Accurate Course Recommendation Models Incorporating False Review Filtering and ERNIE 3.0[J] Plos one
+本项目组基于该数据集公开发表的成果：[1] B. Li, Y. Hou, J. Dong, B. Yang, X. Wang. ICRA: A Study of Highly Accurate Course Recommendation Models Incorporating False Review Filtering and ERNIE 3.0[J] Plos one
                          [2] Bing Li , Yuqi Hou, Biao Yang. Research on Personalized Course Recommendation for Online MOOC Platforms Based on Emotion Recognition[C]. The 2nd International Conference on Artificial Intelligence and Human-Computer Interaction (Artinhci 2024)，2024年10月25-27日
